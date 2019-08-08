@@ -12,9 +12,9 @@
 環境：
 1. 系統：ubuntu16.04
 2. VirtualBox 三台規格：
-Intel i7-7700 (4 CPUs) 6G RAM
-Intel i7-7700 (4 CPUs) 6G RAM
-Intel i7-7700 (4 CPUs) 4G RAM
+Intel i7-7700 (4 CPUs) 6G RAM, 
+Intel i7-7700 (4 CPUs) 6G RAM, 
+Intel i7-7700 (4 CPUs) 4G RAM, 
  
 實作結果：
 ### 1. User registration phase
